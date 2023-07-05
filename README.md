@@ -12,7 +12,7 @@ To use this clock on your local machine, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-git clone https://nikhil0723.github.io/Clock
+git clone https://github.com/Nikhil0723/Clock.git
 
 2. Navigate to the project directory:
 
